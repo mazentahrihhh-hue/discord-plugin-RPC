@@ -1,0 +1,36 @@
+{
+  "application_id": "YOUR_APP_ID_HERE",
+  "state": "Fabric 1.21.11",
+  "details": "Playing Minecraft",
+  "large_image": "minecraft",
+  "large_text": "SKLauncher 4.0",
+  "small_image": "online",
+  "small_text": "Online",
+  "update_interval": 15,
+  "presets": {
+    "minecraft": {
+      "state": "Fabric 1.21.11",
+      "details": "Playing Minecraft",
+      "large_image": "minecraft",
+      "large_text": "SKLauncher 4.0"
+    },
+    "fortnite": {
+      "state": "Battle Royale",
+      "details": "Playing Fortnite",
+      "large_image": "fortnite",
+      "large_text": "Fortnite"
+    },
+    "youtube": {
+      "state": "Tutorial Video",
+      "details": "Watching YouTube",
+      "large_image": "youtube",
+      "large_text": "YouTube"
+    },
+    "spotify": {
+      "state": "Arabic Music",
+      "details": "Listening to Spotify",
+      "large_image": "spotify",
+      "large_text": "Spotify"
+    }
+  }
+}
